@@ -10,6 +10,6 @@ View Live Demo: https://htetarkar-portfolio.vercel.app/
 - Hosting: Vercel
 
 ## Contact
-Email: htetarkarlevi@gmail.com
-LinkedIn: [htetarkar2246](https://www.linkedin.com/in/htetarkar2246/)
-Facebook: https://www.facebook.com/profile.php?id=100056058653578
+- Email: htetarkarlevi@gmail.com
+- LinkedIn: [htetarkar2246](https://www.linkedin.com/in/htetarkar2246/)
+- Facebook: https://www.facebook.com/profile.php?id=100056058653578
