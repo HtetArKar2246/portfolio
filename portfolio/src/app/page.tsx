@@ -11,8 +11,8 @@ export default function Home() {
       <Navbar />
       <Hero />
       <AboutMe />
-      <ContactForm />
       <MyProjects />
+      <ContactForm />
       <Footer />
     </>
   );
