@@ -62,6 +62,7 @@ const AboutMe = () => {
               href="https://infomyanmarcollege.com/"
               className="text-blue-600 underline hover:text-blue-800"
               aria-label="Visit Info Myanmar College website"
+              target="_blank"
             >
               Info Myanmar Collage
             </a>
