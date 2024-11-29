@@ -13,7 +13,7 @@ const ContactForm = () => {
   return (
     <div
       id="contact"
-      className="flex items-center justify-center min-h-screen bg-background mt-24"
+      className="flex items-center justify-center min-h-screen bg-background mb-24"
     >
       <form
         action="https://formspree.io/f/mgvenlwe"
